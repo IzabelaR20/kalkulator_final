@@ -15,6 +15,9 @@ def multiply(x, y):
 # This function divides two numbers
 def divide(x, y):
    return x / y
+   
+def new fun1(x):
+   return x / 100
 
 print("Select operation.")
 print("1.Add")
